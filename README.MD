@@ -12,7 +12,7 @@ This project demonstrates:
 
 ## Demo
 **Video:** (add link here)  ← EDIT  
-**Screenshots:** (optional)
+**Screenshots:** 
 
 ## Features
 - Detects people via YOLOv8
