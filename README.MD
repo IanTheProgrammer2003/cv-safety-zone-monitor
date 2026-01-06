@@ -1,5 +1,7 @@
 # Computer Vision Safety Zone Monitor (YOLOv8)
 
+**Live Demo:** https://youtube.com/shorts/5CviJSVaixQ?feature=share
+
 Real-time webcam monitoring system that detects when a person enters a defined “Safety Zone”.
 Uses **edge-triggered events** (ENTER/EXIT) to prevent alert spam, logs events, plays an alarm, and saves violation snapshots.
 
@@ -10,9 +12,8 @@ This project demonstrates:
 - Rate limiting (cooldowns for snapshots + alarms)
 - Logging and evidence capture (timestamped logs + images)
 
-## Demo
-**Video:** (add link here)  ← EDIT  
-**Screenshots:** 
+ **Demo Video:**  
+https://youtube.com/shorts/5CviJSVaixQ?feature=share
 
 ## Features
 - Detects people via YOLOv8
